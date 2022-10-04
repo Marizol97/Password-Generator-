@@ -54,7 +54,7 @@ function promptForUppercase() {
 }
 
 function promptForNumber () {
-  let wantsNumberChar = confirm ('Do you want a number in your password?')
+  let wantsNumberChar = confirm ('Do you want numbers in your password?')
   return wantsNumberChar
 }
 
